@@ -1,10 +1,28 @@
 body {
-    background-color: slategrey;
-    margin: 20px;
-  }
-  
-  h1 {
-    color: mediumvioletred;
-    text-shadow: 1px 1px 2px midnightblue;
-    margin-left: 30px;
-  }
+  background-color: slategrey;
+  margin: 20px;
+}
+
+h1 {
+  color: mediumvioletred;
+  text-shadow: 1px 1px 2px midnightblue;
+  margin-left: 30px;
+}
+li {
+  /* text-align: center; */
+  display: inline;
+  padding: 36px;
+  margin: 60px;
+}
+hr {
+  border-color: mediumvioletred;
+  border-radius: 25px;
+  border-width: 3px;
+}
+
+p {
+  text-align: center;
+}
+#p1 {
+  background-color: whitesmoke;
+}

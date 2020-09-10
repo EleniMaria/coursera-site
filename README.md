@@ -1,10 +1,9 @@
-## Welcome to GitHub Pages
+# Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/EleniMaria/coursera-site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[link](https://elenimaria.github.io/coursera-site/)
+follow the above link yo view
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
