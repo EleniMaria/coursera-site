@@ -2,15 +2,21 @@ body {
   background-color: slategrey;
   margin: 20px;
 }
+nav{
+  font-style: oblique;
+  font-weight: bolder;
+}
 
 h1 {
   color: mediumvioletred;
   text-shadow: 1px 1px 2px midnightblue;
   margin-left: 30px;
 }
+h2 {
+  padding-bottom: 20px;
+}
 li {
-  /* text-align: center; */
-  display: inline;
+  display: inline-flex;
   padding: 36px;
   margin: 60px;
 }
@@ -24,5 +30,29 @@ p {
   text-align: center;
 }
 #p1 {
-  background-color: whitesmoke;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: antiquewhite;
+}
+
+#p2 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: rgb(212, 187, 187);
+}
+
+#li1 {
+  color: pink;
+  border-radius: 1px 30px;
+  background-color: teal;
+}
+#li2 {
+  background-color: rgb(27, 25, 130);
+  border-radius: 30px 1px;
+  color: skyblue;
+}
+
+#li3 {
+  background-color: tomato;
+  border-radius: 1px 30px;
 }
